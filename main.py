@@ -20,7 +20,7 @@ from translator import HoroscopeTranslator
 # Загружаем переменные окружения
 load_dotenv()
 
-# Настройка логирования
+# Настройка  логирования
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
