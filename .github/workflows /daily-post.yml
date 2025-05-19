@@ -1,4 +1,4 @@
-name: Daily Horoscope Post
+name: COPY Daily Horoscope Post
 
 # Позволяет запускать workflow вручную из интерфейса GitHub
 on:
